@@ -23,6 +23,3 @@ git https://github.com/theritikyadav11/DSA_Instructor.git
 cd DSA_Instructor
 ```
 
-# DSA_Instructor
-
-A DSA Instructor who guides you for your DSA concepts.
